@@ -20,6 +20,11 @@ This repository will include:
 - Investigation practice
 - Detection ideas
 - Security-related learning resources
+  
+## Repository Contents
+- [Security+ Notes](security-plus-notes.md)
+- [Phishing Basics](phishing-basics.md)
+
 
 ## Current Goal
 My goal is to build a strong foundation in cybersecurity and create a portfolio that shows my learning journey and practical progress.
