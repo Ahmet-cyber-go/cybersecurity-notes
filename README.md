@@ -24,6 +24,7 @@ This repository will include:
 ## Repository Contents
 - [Security+ Notes](security-plus-notes.md)
 - [Phishing Basics](phishing-basics.md)
+- [Incident Response Notes](incident-response-notes.md)
 
 
 ## Current Goal
